@@ -1,3 +1,4 @@
+
 #!/usr/bin/env bash
 # Automated installer for owncloud fail2ban configuration.
 #
